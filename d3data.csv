@@ -1,4 +1,4 @@
-Time,Sender,Receiver,Message
+time,sender,receiver,message
 24-04-2019 01:00,N1,N4,Msg 1 to 4
 24-04-2019 01:01,N1,N2,Msg 1 to 2
 24-04-2019 01:01,N4,N1,ACK 4 to 1
